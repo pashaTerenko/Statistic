@@ -1,0 +1,34 @@
+
+ul.images {
+
+font-size: 12px;
+    width: 3300px;
+    height: 150px;
+
+}
+
+ul.images li {
+    display: inline-block;
+    width: 350px;
+    height: 150px;
+}
+#c1 {
+    color: #341a1a;
+    background: #79a6a4;
+}
+#c2 {
+    color: #341a1a;
+    background: #79a6a4;
+}
+#c3 {
+    color: #341a1a;
+    background: #79a6a4;
+}
+#c4 {
+    color: #341a1a;
+    background: #79a6a4;
+}
+#c5 {
+    color: #341a1a;
+    background: #79a6a4;
+}
